@@ -12,7 +12,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, i'm <b>Niko</b>, Full Stack JavaScript Developer 👨‍💻</p>
+        <p>Hello, i'm <b>Niko</b>, Full Stack JavaScript Developer 👨‍💻💻</p>
         <p>You can contact me on <a href="https://www.linkedin.com/in/nikosantis/">LinkedIn</a> or <a href="https://twitter.com/nikosantise">Twitter</a></p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
